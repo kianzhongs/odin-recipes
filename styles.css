@@ -1,0 +1,12 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dish-title {
+    text-align: center;
+}
+
+.dish-img {
+    display:block;
+    margin: 0px auto;
+}
